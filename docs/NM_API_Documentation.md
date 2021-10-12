@@ -4,6 +4,26 @@
 
 # Linear Solver
 
+## void gradientFunc()
+
+returns the dy/dx results for the 
+
+ion
+
+
+
+```c
+void gradient 1D()
+```
+
+**Parameter**
+
+* **x[]** : iniial 
+
+
+
+
+
 ## gaussElim()
 
 solves for vector **x** from  Ax=b,  a linear system problem  
